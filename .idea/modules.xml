@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/binary-tree/binary-tree.iml" filepath="$PROJECT_DIR$/binary-tree/binary-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/buble-sort/buble-sort.iml" filepath="$PROJECT_DIR$/buble-sort/buble-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/heap-sort/heap-sort.iml" filepath="$PROJECT_DIR$/heap-sort/heap-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helper-functions/helper-functions.iml" filepath="$PROJECT_DIR$/helper-functions/helper-functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/merge-sort/merge-sort.iml" filepath="$PROJECT_DIR$/merge-sort/merge-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
