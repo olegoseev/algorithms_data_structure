@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/binary-tree/binary-tree.iml" filepath="$PROJECT_DIR$/binary-tree/binary-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buble-sort/buble-sort.iml" filepath="$PROJECT_DIR$/buble-sort/buble-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heap-sort/heap-sort.iml" filepath="$PROJECT_DIR$/heap-sort/heap-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merge-sort/merge-sort.iml" filepath="$PROJECT_DIR$/merge-sort/merge-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-sort/quick-sort.iml" filepath="$PROJECT_DIR$/quick-sort/quick-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+    </modules>
+  </component>
+</project>
